@@ -11,8 +11,9 @@
 4. Ping local APIPA peer → succeeds.
 
 ## Evidence
-- Screenshot: `../screenshots/apipa-ipconfig.png`
-- Output: [apipa-ipconfig-all.txt](../apipa-ipconfig-all.txt)
+- Screenshot:
+![apipa ipconfig](../screenshots/apipa-ipconfig.png)
+![apipa ping](../screenshots/apipa-ping.png)
 
 ## Reflection
 APIPA provides local-only connectivity within 169.254.0.0/16 when DHCP is unavailable.
