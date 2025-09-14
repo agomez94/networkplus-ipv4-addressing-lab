@@ -1,0 +1,13 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors/IDE
+.vscode/
+*.code-workspace
+
+# Archives
+*.zip
+
+# Python venvs (if used for tooling)
+.venv/
