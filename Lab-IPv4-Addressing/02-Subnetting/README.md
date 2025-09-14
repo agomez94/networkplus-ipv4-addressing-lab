@@ -13,7 +13,7 @@
 6. Ping test → fails.
 
 ## Evidence
-- Screenshot: `../screenshots/subnet-ip-settings.png`
+- Screenshot:
 ![subnetwin11](../screenshots/StaticIPWin11-proof.png)
 ![subnetwin11](../screenshots/staticIP-DM01-proof.png)
 ![subnetwin11](../screenshots/ping-33Success.png)
