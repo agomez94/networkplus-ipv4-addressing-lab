@@ -14,7 +14,12 @@
 
 ## Evidence
 - Screenshot: `../screenshots/subnet-ip-settings.png`
-- Output: [subnet-ping-results.txt](../subnet-ping-results.txt)
+![subnetwin11](../screenshots/StaticIPWin11-proof.png)
+![subnetwin11](../screenshots/staticIP-DM01-proof.png)
+![subnetwin11](../screenshots/ping-33Success.png)
+![subnetwin11](../screenshots/changing-subnetTO26.png)
+![subnetwin11](../screenshots/changing-Win11SubnetTO26.png)
+![subnetwin11](../screenshots/failed-ping.png)
 
 ## Reflection
 Subnetting creates logical separation even within the same physical LAN.
