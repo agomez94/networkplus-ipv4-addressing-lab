@@ -11,6 +11,8 @@
 
 ## Evidence
 - Screenshot: `../screenshots/loopback-ping.png`
+![ping icmpaddress](../screenshots/Successful-PingandWiresharkICMPfilter.png)
+![ping loopback](../screenshots/pingLOOPBACKwiresharkNOTvisible.png)
 
 ## Reflection
 Loopback traffic stays internal, validating the network stack without hitting the NIC.
